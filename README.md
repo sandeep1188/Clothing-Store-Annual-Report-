@@ -15,6 +15,8 @@ Advanced Excel Functions: Using SUMIF, COUNTIF, and VLOOKUP for precise calculat
 Conditional Formatting: Highlighting trends and anomalies in data.
 Data Cleaning: Ensuring the data's accuracy and consistency for reliable analysis.
 📊 Dashboard Highlights
+## Dashboard
+![Sales_Insights_page-0001]('https://github.com/sandeep1188/Clothing-Store-Annual-Report-/blob/main/Screenshot%202024-11-24%20191032.png')
 Monthly Trends: A detailed view of sales and orders over 2022.
 Top 10 States: Visual representation of states contributing the most to sales.
 Demographics Analysis: Insights into purchasing behaviors by age and gender.
